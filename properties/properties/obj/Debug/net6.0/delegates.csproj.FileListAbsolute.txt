@@ -1,0 +1,15 @@
+/Users/denashivanandareddypitta/Projects/properties/properties/bin/Debug/net6.0/delegates
+/Users/denashivanandareddypitta/Projects/properties/properties/bin/Debug/net6.0/delegates.deps.json
+/Users/denashivanandareddypitta/Projects/properties/properties/bin/Debug/net6.0/delegates.runtimeconfig.json
+/Users/denashivanandareddypitta/Projects/properties/properties/bin/Debug/net6.0/delegates.dll
+/Users/denashivanandareddypitta/Projects/properties/properties/bin/Debug/net6.0/delegates.pdb
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.csproj.AssemblyReference.cache
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.AssemblyInfoInputs.cache
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.AssemblyInfo.cs
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.csproj.CoreCompileInputs.cache
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.dll
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/refint/delegates.dll
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.pdb
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/delegates.genruntimeconfig.cache
+/Users/denashivanandareddypitta/Projects/properties/properties/obj/Debug/net6.0/ref/delegates.dll
